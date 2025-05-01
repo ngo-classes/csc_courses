@@ -1,0 +1,8 @@
+/* public/assets/css/styles.css */
+
+/* … existing reset and container rules … */
+
+circle   { stroke:#fff; stroke-width:2px; }
+text     { font-family: system-ui, sans-serif; font-size: 11px; fill:#fff; }
+
+

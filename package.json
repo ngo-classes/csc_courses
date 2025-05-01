@@ -1,0 +1,16 @@
+{
+  "name": "courseviz",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "deploy": "gh-pages -d docs"          // optional – see below
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"                  // only if you use the gh-pages branch route
+  }
+}
+
